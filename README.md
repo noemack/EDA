@@ -1,4 +1,4 @@
-# EDA_Intro_MIEM
+# EDA_Introductorio
 EDA | Exploratory Data Analysis (Análisis exploratorio de Datos)
 
 Los datos para este análisis fueron obtenidos del Catálogo de Datos Abiertos de Uruguay: https://catalogodatos.gub.uy/dataset/miem-remuneraciones
