@@ -18,3 +18,10 @@ Con el conjunto de datos de "Sistema de remuneraciones de los funcionarios del M
 6 - Cuál es el tipo de cargo con MAYOR remuneración acumulada del período?
 
 Exploraremos el dataframe para saber si es necesario realizar algún proceso de limpieza y reparación de datos, ante de comenzar a responder nuestras preguntas
+
+### Herramientas
+- Python
+- Google Colab
+
+### Esquema
+> "Esquema_EDA", [Link](https://github.com/noemac/EDA_Intro_MIEM/).
