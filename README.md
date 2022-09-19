@@ -24,4 +24,4 @@ Exploraremos el dataframe para saber si es necesario realizar algún proceso de 
 - Google Colab
 
 ### Esquema
-> "Esquema_EDA", [Link](https://github.com/noemac/EDA_Intro_MIEM/).
+> "Esquema_EDA", [Link](https://github.com/noemack/EDA_Intro_MIEM/).
